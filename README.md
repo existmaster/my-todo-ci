@@ -15,3 +15,5 @@ pnpm install --frozen-lockfile
 pnpm test        # Tests  4 passed (4)
 pnpm typecheck   # 오류 없이 끝난다
 ```
+
+CI: PR마다 테스트와 타입 검사를 실행한다.
